@@ -4,4 +4,4 @@ This is my solution to problem of counting most frequent kmers in a FASTQ file, 
 
 It's not completed and not the best solution!. 
 
-It should be compiled as an 64 bit application, which currently is not configured in the makefile.
+It should be compiled as a 64 bit application, which currently is not configured in the makefile.
